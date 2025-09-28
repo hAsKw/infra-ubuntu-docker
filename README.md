@@ -2,6 +2,12 @@
 
 Este documento é um guia para configurar um servidor pessoal utilizando Ubuntu Server em um notebook, acessado via Tailscale, com Docker, Portainer e Vaultwarden.
 
+# Outros guias
+
+- [Configuração em VPS](README_VPS.md)  
+- [Como configurar domínio e HTTPS](DOMINIO.md)  
+
+
 1. Atualizar o sistema:
 ```
 sudo apt update && sudo apt upgrade -y
